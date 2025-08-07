@@ -261,18 +261,6 @@ gas_sensor.power_mode = BME680_FORCED_MODE;    // Forced mode for single measure
 - Monitor heater stability flag in gas measurements
 - Use STM32CubeIDE debugger for detailed troubleshooting
 
-## Repository Information
-
-### Suggested Repository Names
-1. `STM32L4R9AI-BME680-Driver`
-2. `BME680-STM32L4-Environmental-Sensor`
-3. `stm32l4r9-bme680-i2c-driver`
-
-### Repository Description
-```
-BME680 4-in-1 environmental sensor driver for STM32L4R9AI Discovery board. Measures temperature, pressure, humidity, and gas resistance using I2C3 interface with UART2 serial output.
-```
-
 ## Development Environment
 
 - **IDE:** STM32CubeIDE 1.x
@@ -286,7 +274,6 @@ BME680 4-in-1 environmental sensor driver for STM32L4R9AI Discovery board. Measu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
-
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/improvement`)
 3. Commit changes (`git commit -am 'Add new feature'`)
