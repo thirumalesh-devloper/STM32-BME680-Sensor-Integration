@@ -1,5 +1,5 @@
 # STM32-BME680-Sensor-Integration
- This project demonstrates interfacing the Bosch BME680 environmental sensor with the STM32L4R9AI Discovery board using I2C3 for sensor communication and USART2 for serial data output.
+ This project demonstrates interfacing the Bosch BME680 environmental sensor with the STM32L4R9AI Discovery board using I2C for sensor communication and USART2 for serial data output.
 # BME680 Environmental Sensor Driver for STM32L4R9AI Discovery Board
 
 A complete BME680 4-in-1 environmental sensor driver implementation for the STM32L4R9AI Discovery board using STM32CubeIDE and HAL library with Bosch BME680 official API.
