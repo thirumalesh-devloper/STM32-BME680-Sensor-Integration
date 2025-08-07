@@ -273,27 +273,5 @@ gas_sensor.power_mode = BME680_FORCED_MODE;    // Forced mode for single measure
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Create Pull Request
-
-
-
-## Acknowledgments
-
-- Bosch Sensortec for BME680 sensor and official API
-- STMicroelectronics for STM32 HAL library
-- STM32 community for reference implementations
-
-## Additional Resources
-
-- [BME680 Datasheet](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors/bme680/)
-- [Bosch BME680 API GitHub](https://github.com/BoschSensortec/BME680_driver)
-- [STM32L4R9AI Discovery Board User Manual](https://www.st.com/resource/en/user_manual/dm00368330-discovery-kit-with-stm32l4r9ai-mcu-stmicroelectronics.pdf)
-
----
 
 **⭐ If this project helped you measure environmental conditions, please star the repository!**
